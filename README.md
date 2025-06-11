@@ -226,12 +226,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Item-Based Collaborative Filtering](https://dl.acm.org/doi/10.1145/371920.372071) by Sarwar et al.
 - [Matrix Factorization Techniques](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) by Koren et al.
 
-## 📊 Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/anime-recommendation-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/anime-recommendation-system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/anime-recommendation-system)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/anime-recommendation-system)
 
 ---
 
