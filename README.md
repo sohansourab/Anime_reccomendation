@@ -222,17 +222,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [MyAnimeList](https://myanimelist.net/) for anime data inspiration
-- [Collaborative Filtering for Implicit Feedback Datasets](https://ieeexplore.ieee.org/document/4781121) by Hu et al.
-- [Item-Based Collaborative Filtering](https://dl.acm.org/doi/10.1145/371920.372071) by Sarwar et al.
-- [Matrix Factorization Techniques](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) by Koren et al.
+- [Collaborative Filtering for Implicit Feedback Datasets](https://ieeexplore.ieee.org/document/4781121).
+- [Item-Based Collaborative Filtering](https://dl.acm.org/doi/10.1145/371920.372071) 
+- [Matrix Factorization Techniques](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) 
 
 
 ---
 
 **Made with ❤️ for the anime community**
 
-If you found this project helpful, please consider giving it a ⭐!
-# Anime_reccomendation
-# Anime_reccomendation
-# Anime_reccomendation
-# Anime_reccomendation
+
